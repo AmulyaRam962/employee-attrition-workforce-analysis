@@ -1,46 +1,54 @@
-# employee-attrition-workforce-analysis
-Employee Attrition &amp; Workforce Analytics Dashboard built using Power BI
 # Employee Attrition & Workforce Analytics Dashboard
 
+This project analyzes employee attrition patterns using a workforce dataset of 1,470 employees.  
+The dashboard was built in Power BI to understand attrition trends across departments, age groups, education fields, and tenure.
+
 ## Project Overview
-This project analyzes workforce data to understand employee attrition patterns and identify factors contributing to employee turnover.
 
-The dashboard provides insights into attrition trends across departments, age groups, tenure levels, and education fields to support HR decision-making.
+The goal of this analysis is to identify workforce segments with higher attrition and highlight patterns that could help HR teams improve employee retention.
 
-## Dataset
-The dataset contains HR records for **1,470 employees**, including information such as:
+Dataset size: 1,470 employees
 
-- Department
-- Age group
-- Job role
-- Monthly income
-- Education field
-- Tenure
-- Attrition status
+## Key Metrics
+
+* Total Employees: 1,470  
+* Active Employees: 1,233  
+* Attrition Count: 237  
+* Attrition Rate: 16%
+
+## Dashboard Preview
+
+![Dashboard Preview](attrition_analysis.png)
 
 ## Key Insights
-- Total Employees: 1,470
-- Active Employees: 1,233
-- Attrition Count: 237
-- Overall Attrition Rate: 16%
 
-Key findings:
-- Employees **under age 30 showed the highest attrition rate (28%)**
-- **Research & Development (133 exits)** and **Sales (92 exits)** had the highest turnover
-- Early tenure employees showed higher attrition compared to long-term employees
+* Employees under 30 show the highest attrition rate (around 28%)
+* Research & Development department has the highest attrition count
+* Early-career employees contribute significantly to overall attrition
 
-## Dashboard Features
-The interactive dashboard includes:
+## Attrition Breakdown
 
-- Attrition KPIs
-- Attrition by Department
-- Attrition by Age Group
-- Attrition by Education Field
-- Attrition by Tenure Group
-- Filters for Department, Job Role, and Monthly Income
+![Attrition Breakdown](attrition_breakdown1.png)
+
+Further analysis shows:
+
+* Attrition rate differences across age groups
+* Attrition distribution by education field
+* Higher exits among employees with shorter tenure
 
 ## Tools Used
-- Power BI
-- Excel
-- Data Cleaning
-- Data Visualization
+
+* Power BI  
+* Data Visualization  
+* DAX Measures  
+* Data Cleaning  
+
+## Dataset
+
+HR workforce dataset containing employee demographics, department, tenure, education field, and attrition status.
+
+## Author
+
+Amulya R  
+Aspiring Data Analyst  
+Skills: SQL | Excel | Power BI | Python
