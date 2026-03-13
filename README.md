@@ -23,21 +23,21 @@ Dataset size: 1,470 employees
 ## Attrition Analysis
 
 ### Attrition by Department
-![Attrition by Department](Attrition by Department chart.png)
+![Attrition by Department](Attrition%20by%20Department%20chart.png)
 
 ### Employee Headcount by Age Group
-![Employee Headcount by Age Group](Employee Headcount by Age Group.png)
+![Employee Headcount by Age Group](Employee%20Headcount%20by%20Age%20Group.png)
 
 ### Highest Attrition Under Age 30
-![Highest Attrition Under Age 30](Highest Attrition Under Age 30.png)
+![Highest Attrition Under Age 30](Highest%20Attrition%20Under%20Age%2030.png)
 
 ## Attrition Breakdown
 
 ### Attrition Rate by Age Group
-![Attrition Rate by Age Group](Attrition rate by Age Group.png)
+![Attrition Rate by Age Group](Attrition%20rate%20by%20Age%20Group.png)
 
 ### Attrition by Education & Tenure
-![Attrition by Education and Tenure](Attrition by Education & Tenure.png)
+![Attrition by Education and Tenure](Attrition%20by%20Education%20&%20Tenure.png)
 
 ## Key Insights
 
