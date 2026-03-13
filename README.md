@@ -15,26 +15,29 @@ Dataset size: 1,470 employees
 * Active Employees: 1,233  
 * Attrition Count: 237  
 * Attrition Rate: 16%
-
 ## Dashboard Preview
 
-![Dashboard Preview](attrition_analysis.png)
+![Dashboard](dashboard_screenshot.png)
 
-## Key Insights
+## Attrition Analysis
 
-* Employees under 30 show the highest attrition rate (around 28%)
-* Research & Development department has the highest attrition count
-* Early-career employees contribute significantly to overall attrition
+### Attrition by Department
+![Attrition Department](attrition_analysis1.png)
+
+### Employee Headcount by Age Group
+![Employee Age Group](attrition_analysis2.png)
+
+### Highest Attrition Under Age 30
+![Attrition Under 30](attrition_analysis3.png)
+
 
 ## Attrition Breakdown
 
-![Attrition Breakdown](attrition_breakdown1.png)
+### Attrition Rate by Age Group
+![Attrition Rate](attrition_breakdown1.png)
 
-Further analysis shows:
-
-* Attrition rate differences across age groups
-* Attrition distribution by education field
-* Higher exits among employees with shorter tenure
+### Attrition by Education / Tenure
+![Attrition Tenure](attrition_breakdown2.png)
 
 ## Tools Used
 
